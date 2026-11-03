@@ -1,0 +1,467 @@
+[
+  {
+    "name": "01_feed_tank",
+    "position_mm": [
+      -235,
+      10,
+      12
+    ],
+    "size_mm": [
+      140.0,
+      130.0,
+      200.0
+    ],
+    "solid_valid": true,
+    "status": "CONCEPT / ASSUMED DIMENSIONS"
+  },
+  {
+    "name": "02_sediment_housing",
+    "position_mm": [
+      -65,
+      0,
+      40
+    ],
+    "size_mm": [
+      88.0,
+      88.0,
+      270.0
+    ],
+    "solid_valid": true,
+    "status": "CONCEPT / ASSUMED DIMENSIONS"
+  },
+  {
+    "name": "03_sediment_cartridge",
+    "position_mm": [
+      -65,
+      0,
+      48
+    ],
+    "size_mm": [
+      60.0,
+      60.0,
+      240.0
+    ],
+    "solid_valid": true,
+    "status": "CONCEPT / ASSUMED DIMENSIONS"
+  },
+  {
+    "name": "04_carbon_housing",
+    "position_mm": [
+      55,
+      0,
+      40
+    ],
+    "size_mm": [
+      88.0,
+      88.0,
+      270.0
+    ],
+    "solid_valid": true,
+    "status": "CONCEPT / ASSUMED DIMENSIONS"
+  },
+  {
+    "name": "05_carbon_cartridge",
+    "position_mm": [
+      55,
+      0,
+      48
+    ],
+    "size_mm": [
+      60.0,
+      60.0,
+      240.0
+    ],
+    "solid_valid": true,
+    "status": "CONCEPT / ASSUMED DIMENSIONS"
+  },
+  {
+    "name": "06_ro_housing",
+    "position_mm": [
+      -145,
+      25,
+      390
+    ],
+    "size_mm": [
+      310.0,
+      56.0,
+      56.0
+    ],
+    "solid_valid": true,
+    "status": "CONCEPT / ASSUMED DIMENSIONS"
+  },
+  {
+    "name": "07_ro_membrane",
+    "position_mm": [
+      -135,
+      25,
+      390
+    ],
+    "size_mm": [
+      280.0,
+      44.0,
+      44.0
+    ],
+    "solid_valid": true,
+    "status": "CONCEPT / ASSUMED DIMENSIONS"
+  },
+  {
+    "name": "08_tube_segment",
+    "position_mm": [
+      210,
+      0,
+      30
+    ],
+    "size_mm": [
+      6.35,
+      6.35,
+      100.0
+    ],
+    "solid_valid": true,
+    "status": "CONCEPT / ASSUMED DIMENSIONS"
+  },
+  {
+    "name": "09_connector",
+    "position_mm": [
+      210,
+      0,
+      130
+    ],
+    "size_mm": [
+      16.0,
+      16.0,
+      24.0
+    ],
+    "solid_valid": true,
+    "status": "CONCEPT / ASSUMED DIMENSIONS"
+  },
+  {
+    "name": "10_pump_bracket",
+    "position_mm": [
+      215,
+      70,
+      12
+    ],
+    "size_mm": [
+      100.0,
+      65.0,
+      5.0
+    ],
+    "solid_valid": true,
+    "status": "CONCEPT / ASSUMED DIMENSIONS"
+  },
+  {
+    "name": "11_pressure_sensor_mount",
+    "position_mm": [
+      -125,
+      0,
+      300
+    ],
+    "size_mm": [
+      30.0,
+      30.0,
+      25.0
+    ],
+    "solid_valid": true,
+    "status": "CONCEPT / ASSUMED DIMENSIONS"
+  },
+  {
+    "name": "12_tds_sensor_mount",
+    "position_mm": [
+      -220,
+      15,
+      215
+    ],
+    "size_mm": [
+      24.0,
+      24.0,
+      30.0
+    ],
+    "solid_valid": true,
+    "status": "CONCEPT / ASSUMED DIMENSIONS"
+  },
+  {
+    "name": "13_turbidity_mount",
+    "position_mm": [
+      -220,
+      60,
+      215
+    ],
+    "size_mm": [
+      50.0,
+      40.0,
+      45.0
+    ],
+    "solid_valid": true,
+    "status": "CONCEPT / ASSUMED DIMENSIONS"
+  },
+  {
+    "name": "14_flow_sensor_mount",
+    "position_mm": [
+      210,
+      0,
+      160
+    ],
+    "size_mm": [
+      32.0,
+      32.0,
+      45.0
+    ],
+    "solid_valid": true,
+    "status": "CONCEPT / ASSUMED DIMENSIONS"
+  },
+  {
+    "name": "15_electronics_enclosure",
+    "position_mm": [
+      210,
+      65,
+      440
+    ],
+    "size_mm": [
+      150.0,
+      90.0,
+      45.0
+    ],
+    "solid_valid": true,
+    "status": "CONCEPT / ASSUMED DIMENSIONS"
+  },
+  {
+    "name": "16_electronics_plate",
+    "position_mm": [
+      210,
+      65,
+      444
+    ],
+    "size_mm": [
+      140.0,
+      80.0,
+      3.0
+    ],
+    "solid_valid": true,
+    "status": "CONCEPT / ASSUMED DIMENSIONS"
+  },
+  {
+    "name": "17_leak_tray",
+    "position_mm": [
+      0,
+      0,
+      0
+    ],
+    "size_mm": [
+      620.0,
+      260.0,
+      12.0
+    ],
+    "solid_valid": true,
+    "status": "CONCEPT / ASSUMED DIMENSIONS"
+  },
+  {
+    "name": "18_stand",
+    "position_mm": [
+      0,
+      0,
+      0
+    ],
+    "size_mm": [
+      640.0,
+      280.0,
+      546.0
+    ],
+    "solid_valid": true,
+    "status": "CONCEPT / ASSUMED DIMENSIONS"
+  },
+  {
+    "name": "19_sediment_cap",
+    "position_mm": [
+      -65,
+      0,
+      310
+    ],
+    "size_mm": [
+      96.0,
+      96.0,
+      18.0
+    ],
+    "solid_valid": true,
+    "status": "CONCEPT / ASSUMED DIMENSIONS"
+  },
+  {
+    "name": "20_carbon_cap",
+    "position_mm": [
+      55,
+      0,
+      310
+    ],
+    "size_mm": [
+      96.0,
+      96.0,
+      18.0
+    ],
+    "solid_valid": true,
+    "status": "CONCEPT / ASSUMED DIMENSIONS"
+  },
+  {
+    "name": "21_ro_cap",
+    "position_mm": [
+      165,
+      25,
+      390
+    ],
+    "size_mm": [
+      14.0,
+      62.0,
+      62.0
+    ],
+    "solid_valid": true,
+    "status": "CONCEPT / ASSUMED DIMENSIONS"
+  },
+  {
+    "name": "22_pump_envelope",
+    "position_mm": [
+      215,
+      70,
+      17
+    ],
+    "size_mm": [
+      90.0,
+      55.0,
+      75.0
+    ],
+    "solid_valid": true,
+    "status": "CONCEPT / ASSUMED DIMENSIONS"
+  },
+  {
+    "name": "23_nc_valve_envelope",
+    "position_mm": [
+      -150,
+      -50,
+      20
+    ],
+    "size_mm": [
+      35.0,
+      30.0,
+      45.0
+    ],
+    "solid_valid": true,
+    "status": "CONCEPT / ASSUMED DIMENSIONS"
+  },
+  {
+    "name": "24_enclosure_lid",
+    "position_mm": [
+      210,
+      65,
+      485
+    ],
+    "size_mm": [
+      150.0,
+      90.0,
+      3.0
+    ],
+    "solid_valid": true,
+    "status": "CONCEPT / ASSUMED DIMENSIONS"
+  },
+  {
+    "name": "route_01",
+    "position_mm": [
+      0,
+      0,
+      0
+    ],
+    "size_mm": [
+      46.15,
+      16.34,
+      156.63
+    ],
+    "solid_valid": true,
+    "status": "CONCEPT / ASSUMED DIMENSIONS"
+  },
+  {
+    "name": "route_02",
+    "position_mm": [
+      0,
+      0,
+      0
+    ],
+    "size_mm": [
+      361.94,
+      116.08,
+      41.32
+    ],
+    "solid_valid": true,
+    "status": "CONCEPT / ASSUMED DIMENSIONS"
+  },
+  {
+    "name": "route_03",
+    "position_mm": [
+      0,
+      0,
+      0
+    ],
+    "size_mm": [
+      323.83,
+      81.24,
+      235.2
+    ],
+    "solid_valid": true,
+    "status": "CONCEPT / ASSUMED DIMENSIONS"
+  },
+  {
+    "name": "route_04",
+    "position_mm": [
+      0,
+      0,
+      0
+    ],
+    "size_mm": [
+      30.0,
+      6.35,
+      6.35
+    ],
+    "solid_valid": true,
+    "status": "CONCEPT / ASSUMED DIMENSIONS"
+  },
+  {
+    "name": "route_05",
+    "position_mm": [
+      0,
+      0,
+      0
+    ],
+    "size_mm": [
+      246.89,
+      46.27,
+      71.14
+    ],
+    "solid_valid": true,
+    "status": "CONCEPT / ASSUMED DIMENSIONS"
+  },
+  {
+    "name": "route_06",
+    "position_mm": [
+      0,
+      0,
+      0
+    ],
+    "size_mm": [
+      36.27,
+      31.29,
+      186.31
+    ],
+    "solid_valid": true,
+    "status": "CONCEPT / ASSUMED DIMENSIONS"
+  },
+  {
+    "name": "route_07",
+    "position_mm": [
+      0,
+      0,
+      0
+    ],
+    "size_mm": [
+      106.14,
+      111.11,
+      362.37
+    ],
+    "solid_valid": true,
+    "status": "CONCEPT / ASSUMED DIMENSIONS"
+  }
+]

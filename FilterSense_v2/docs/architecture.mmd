@@ -1,0 +1,26 @@
+flowchart TD
+  tank[Feed tank] --> inlet[Inlet TDS, turbidity, temperature]
+  inlet --> valve[Normally closed valve]
+  valve --> pump[Booster pump]
+  pump --> p1[Pressure P1]
+  p1 --> sediment[Sediment filter]
+  sediment --> carbon[Carbon filter]
+  carbon --> p2[Pressure P2]
+  p2 --> ro[RO membrane]
+  ro --> product[Product TDS and flow]
+  ro --> restrictor[Reject restrictor]
+  restrictor --> waste[Waste collection]
+  product --> clean[Product collection]
+  inlet -. readings .-> adc[ESP32 and ADC channels]
+  p1 -. readings .-> adc
+  p2 -. readings .-> adc
+  product -. readings .-> adc
+  adc --> validation[Validation and history]
+  simulator[Labelled synthetic source] --> validation
+  validation --> health[Pressure, flow, rejection, exposure]
+  health --> forecast[Trend forecast to assumed limits]
+  forecast --> dashboard[Dashboard and service alert]
+  leak[Leak sensor] --> interlock[Local latched safety interlock]
+  pressure[Independent pressure protection] --> interlock
+  interlock -. close .-> valve
+  interlock -. stop .-> pump

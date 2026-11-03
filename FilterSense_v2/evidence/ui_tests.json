@@ -1,0 +1,5 @@
+{
+  "checks_passed": 19,
+  "method": "Streamlit AppTest",
+  "scope": "scenario, safety latch, reset, forecast and geometry-view interactions; not browser pixel or physical validation"
+}

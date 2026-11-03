@@ -1,0 +1,7 @@
+{
+  "duration_seconds": 86.0,
+  "bytes": 632102,
+  "audio": "none: silent captioned demo",
+  "source": "actual computational outputs and CAD renders",
+  "checks": "duration below 90 seconds, file below 50 MB"
+}

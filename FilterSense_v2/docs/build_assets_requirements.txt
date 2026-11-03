@@ -1,0 +1,6 @@
+cadquery==2.7.0
+matplotlib==3.10.8
+reportlab==4.4.9
+svglib==2.3.2
+pillow==12.3.0
+plotly>=5,<7

@@ -1,0 +1,372 @@
+[
+  {
+    "path": ".streamlit/config.toml",
+    "bytes": 84,
+    "sha256": "25b1142f527296168c27c30fb94d48f85bcdcbe4d3e2b8de619b80843c8f5275"
+  },
+  {
+    "path": ".streamlit/credentials.toml",
+    "bytes": 21,
+    "sha256": "a9abd548c7768c5dfedd44042e5e583f796c93918dda2d926cbff53a72eb449b"
+  },
+  {
+    "path": "README.md",
+    "bytes": 5126,
+    "sha256": "bac84f8f92389e0ce9a9cdc4ce6f808fcf5493874ab9e0d44b5e362346e2f091"
+  },
+  {
+    "path": "Start_FilterSense.bat",
+    "bytes": 1169,
+    "sha256": "8622f458dc9143fef12dab528e74453443e8dc57ee34f99969775906e1ac8e63"
+  },
+  {
+    "path": "VERSION_2_CHANGES.md",
+    "bytes": 858,
+    "sha256": "216f174c9b7793af0ccbd97aac462a69fb273b93a31f2c0acd74b1d5136ae955"
+  },
+  {
+    "path": "cad/FilterSense_3D_Viewer.html",
+    "bytes": 8010422,
+    "sha256": "20d353f1163f03d7b07fd4a1b7dc3e6746da96404f2e59664f1a0186e744ea12"
+  },
+  {
+    "path": "cad/FilterSense_assembly.step",
+    "bytes": 475361,
+    "sha256": "81140f70ae8695e7245600ead5c5b602e58e5656ebe76b1a1138f2d6cff2046e"
+  },
+  {
+    "path": "cad/FilterSense_exploded.step",
+    "bytes": 475379,
+    "sha256": "ddbef1b96bd3f805dd9ab7f0e39aa6ebeab43f66623662d69afe1dcf765ef6e1"
+  },
+  {
+    "path": "cad/assembly.png",
+    "bytes": 310055,
+    "sha256": "facc4281b89e97a57bf49c72d7c83fc7e180fcf175415ebd0b8db77e872d113e"
+  },
+  {
+    "path": "cad/build_cad.py",
+    "bytes": 5668,
+    "sha256": "c1dbd8c97280f809f144573ccbb5dd7ffeb1781218501cd99641866d1a8d9275"
+  },
+  {
+    "path": "cad/build_viewer.py",
+    "bytes": 1979,
+    "sha256": "c392367373060337a36c910ffcfa17d7803cd7970d62a5c21ec2bebc4fb12ac3"
+  },
+  {
+    "path": "cad/exploded.png",
+    "bytes": 336741,
+    "sha256": "a97383e50b35a969253ed719b7d1f951a9f8b55697d2c61981ea4ed6539cfb54"
+  },
+  {
+    "path": "cad/parts/01_feed_tank.step",
+    "bytes": 29800,
+    "sha256": "68f36ef591a9bbbe1ea7d00ca3d8aba2e2a7adf085b18003f2e3d4b7dca3f688"
+  },
+  {
+    "path": "cad/parts/02_sediment_housing.step",
+    "bytes": 10266,
+    "sha256": "e47b16021606b0af58c29d562ccec523de6d29d6d00b01ea061ee3e19be40710"
+  },
+  {
+    "path": "cad/parts/03_sediment_cartridge.step",
+    "bytes": 9592,
+    "sha256": "0a9ba1912dd622927e592789d2e8451957e7ebda4a53e840aff40e8e8b02d182"
+  },
+  {
+    "path": "cad/parts/04_carbon_housing.step",
+    "bytes": 10266,
+    "sha256": "85f7f184d02516f5a9f5dccf7d235334bb31bd86280aae222acc452e46c9a17b"
+  },
+  {
+    "path": "cad/parts/05_carbon_cartridge.step",
+    "bytes": 9592,
+    "sha256": "84338bbac16e3c4249b539beb63cc4936748105938a766c2d48914d922e9dbf3"
+  },
+  {
+    "path": "cad/parts/06_ro_housing.step",
+    "bytes": 10705,
+    "sha256": "9a6024d5cb4d123e62e792e7aa307f6a0fd3ab93a416b144b4489821c6727103"
+  },
+  {
+    "path": "cad/parts/07_ro_membrane.step",
+    "bytes": 10024,
+    "sha256": "099da108e3fd0ba591d86a532ced742131aeb0e8a7a3473ae2a399cc7b85fa2f"
+  },
+  {
+    "path": "cad/parts/08_tube_segment.step",
+    "bytes": 9525,
+    "sha256": "12904395573a532f8ef770ed52faa7b3de565b0b1149570ae0a4ee78b8a2b20b"
+  },
+  {
+    "path": "cad/parts/09_connector.step",
+    "bytes": 9562,
+    "sha256": "cf7420934b444a69b06c0a7f7bbccf404aeacc1a59f9766efc7769695838b0e8"
+  },
+  {
+    "path": "cad/parts/10_pump_bracket.step",
+    "bytes": 34428,
+    "sha256": "cf4ca5188fa6869fdd4f9c31c9700e36484af28f7b914965053beeef6fba4c13"
+  },
+  {
+    "path": "cad/parts/11_pressure_sensor_mount.step",
+    "bytes": 9572,
+    "sha256": "98d374effde670d4bfb926b487a163b6371fc02fb52ffe593651da076af061b7"
+  },
+  {
+    "path": "cad/parts/12_tds_sensor_mount.step",
+    "bytes": 9564,
+    "sha256": "8a7a5ac155c505102b256981008b38e49df03d6374bae48f545358d7d91c895c"
+  },
+  {
+    "path": "cad/parts/13_turbidity_mount.step",
+    "bytes": 29759,
+    "sha256": "4b1e84e82769c2aed24571fdaf0feb0fa754c6842d4897031d9a4e60d87520a8"
+  },
+  {
+    "path": "cad/parts/14_flow_sensor_mount.step",
+    "bytes": 9578,
+    "sha256": "711f2125dbbb5ad3b53fe7106579fb02000342d2f3acff49dd8a4b9246123e82"
+  },
+  {
+    "path": "cad/parts/15_electronics_enclosure.step",
+    "bytes": 29776,
+    "sha256": "9adadf08bc496f0621be76b00aad68953771b324d797a27a97fcc2e8fb365d2c"
+  },
+  {
+    "path": "cad/parts/16_electronics_plate.step",
+    "bytes": 34386,
+    "sha256": "9213eeec22f43367134e7821baeade6c429dbeef78c96b7ff2400fcc60671c94"
+  },
+  {
+    "path": "cad/parts/17_leak_tray.step",
+    "bytes": 29887,
+    "sha256": "e061621e438b3b55bf3909c53b80bb409d086d09dcfe6d92c93e009e8887ee86"
+  },
+  {
+    "path": "cad/parts/18_stand.step",
+    "bytes": 22270,
+    "sha256": "0e5830898df09e532b960c04f16a6348a988930c7bbbe8bc97b36f45efc47ab1"
+  },
+  {
+    "path": "cad/parts/19_sediment_cap.step",
+    "bytes": 5756,
+    "sha256": "692c975c21b4d865118a5bf660f605e28da642a15cbcbba8148576b361345ab5"
+  },
+  {
+    "path": "cad/parts/20_carbon_cap.step",
+    "bytes": 5756,
+    "sha256": "5848ff8538028686fc76caf8d6b385f7a7739e22af9100bd5b9ca0a30795d265"
+  },
+  {
+    "path": "cad/parts/21_ro_cap.step",
+    "bytes": 6008,
+    "sha256": "3774789a20a8618fa03cd85d32129f6ca11a03bc57534d6721a0ba0fe1b77078"
+  },
+  {
+    "path": "cad/parts/22_pump_envelope.step",
+    "bytes": 15498,
+    "sha256": "595a87e6209d30eeafc4c0acf9f37bf96f94041bae5d2f54aa8473f4ec3df27c"
+  },
+  {
+    "path": "cad/parts/23_nc_valve_envelope.step",
+    "bytes": 15498,
+    "sha256": "1fc79f6f982437cb850c491fa33e9a861bb8961a6f89f51c841b2c53aa374b82"
+  },
+  {
+    "path": "cad/parts/24_enclosure_lid.step",
+    "bytes": 15463,
+    "sha256": "dac79f4daeac93e40b65035c295c495beab4d146c976b0150acf5d8c8a078be4"
+  },
+  {
+    "path": "cad/parts/route_01.step",
+    "bytes": 10105,
+    "sha256": "6e3d2acdad98f3621fc14c08b89fde5e4f667a88916ae3fe0e991c77a996a18b"
+  },
+  {
+    "path": "cad/parts/route_02.step",
+    "bytes": 10143,
+    "sha256": "007146947174e079c1fd4ecbeeea3fd7bd37b7bd61b60e10f896906fcd33ef42"
+  },
+  {
+    "path": "cad/parts/route_03.step",
+    "bytes": 10139,
+    "sha256": "db7f61fadb36e29d3dbcffcd8de438d78c723082bd7e8b6ba00c79dbf5b7543e"
+  },
+  {
+    "path": "cad/parts/route_04.step",
+    "bytes": 9300,
+    "sha256": "9e6092c0cabc67ea745d84de1641a0cf60a3739d707b18ab99d5ca71dcbc5280"
+  },
+  {
+    "path": "cad/parts/route_05.step",
+    "bytes": 10019,
+    "sha256": "d773406e5cbaa1460956ae2d4fae052fefae352781b1fd65d89fa44f7b9d5f8c"
+  },
+  {
+    "path": "cad/parts/route_06.step",
+    "bytes": 10137,
+    "sha256": "cf1892cafb5a3e89f12edac7f63b5b5ca8b03802e804fd47c491f7601bf31f13"
+  },
+  {
+    "path": "cad/parts/route_07.step",
+    "bytes": 9898,
+    "sha256": "ec8cbbe66ceb0ef54e77baee74667018c7739da3d38caffbd75e011db474e10c"
+  },
+  {
+    "path": "cad/parts_manifest.json",
+    "bytes": 7036,
+    "sha256": "e1a96ad68236f70aa6c0479e345bab174d165d72011ac28c7e2e20ba9722a078"
+  },
+  {
+    "path": "data/simulated_scenarios.csv",
+    "bytes": 117504,
+    "sha256": "56b4fbced7e3ba049733111af45c1c458fac97445e29d0313d59908713cd3140"
+  },
+  {
+    "path": "docs/FilterSense_CAD_Handbook.pdf",
+    "bytes": 864196,
+    "sha256": "644f56e18b3e3deec08fa04a137bdef30009a5f4e898adef1bc3732ae152a165"
+  },
+  {
+    "path": "docs/architecture.mmd",
+    "bytes": 1046,
+    "sha256": "b4427819134fc0a33e26ae05c6a093347709adfb97b77acfc73c893273f3ebc5"
+  },
+  {
+    "path": "docs/architecture.png",
+    "bytes": 182528,
+    "sha256": "8e69c984ee37c3c7a6dabf42d51da14a4c781684cff32d18f134c63ec9c3b08e"
+  },
+  {
+    "path": "docs/architecture.svg",
+    "bytes": 80727,
+    "sha256": "ada38344b237ec1cf2713b4613deec6c11c639a7e3ebdc2145adb1a747eb5f4d"
+  },
+  {
+    "path": "docs/atomQUEST2026_Spartans_ThiagarajarCollegeOfEngineering_Track2_Report.pdf",
+    "bytes": 369990,
+    "sha256": "0d1b95f6023b23555cc9825f239c73352b5040261d5f871962becbdc061e1588"
+  },
+  {
+    "path": "docs/atomQUEST2026_Spartans_ThiagarajarCollegeOfEngineering_Track2_Video.mp4",
+    "bytes": 632102,
+    "sha256": "4ed0c5f657327f8f8aa5f202ec70254bb9b35c46945505373d60fa799ad95919"
+  },
+  {
+    "path": "docs/build_architecture.py",
+    "bytes": 2366,
+    "sha256": "78de79060ce4ccdda4f643dc5d35f10ea62c7dd8ec68b845848143d3ca7ec28a"
+  },
+  {
+    "path": "docs/build_assets_requirements.txt",
+    "bytes": 94,
+    "sha256": "92defdda866bfe51d8ffe6bb22fa66e8c42b7d1e31a59308d4c4e837cb38fa06"
+  },
+  {
+    "path": "docs/build_documents.py",
+    "bytes": 15048,
+    "sha256": "ed2c2f2a3be825ba4daf161fdb658461b2c3434632de9439e888ab204e61b9af"
+  },
+  {
+    "path": "docs/build_video.py",
+    "bytes": 6893,
+    "sha256": "9585ddc56ebb80ada6e787197d35bc48b239e908f7ccbe385ed241981e9ba793"
+  },
+  {
+    "path": "docs/checklist_and_schedule.md",
+    "bytes": 2581,
+    "sha256": "9b20e044ef84bc94ead5592768636f716629130d526028d907839f6718385bf8"
+  },
+  {
+    "path": "docs/engineering_notes.md",
+    "bytes": 7406,
+    "sha256": "b1d17f44551675c3d99d664aae17d64f6038946cdb5d53ef51b26755e4413dc3"
+  },
+  {
+    "path": "docs/requirements_traceability.csv",
+    "bytes": 1432,
+    "sha256": "9ede1c057699e4b28700e4a21df6201f55a8bb1f1256c4608bcd7fbd6e90c9a9"
+  },
+  {
+    "path": "docs/video_script.md",
+    "bytes": 2174,
+    "sha256": "ce50c6a8ca887ca171cbbd9a77ccae5c8fe9248e68941f2da2117cb5c08fd545"
+  },
+  {
+    "path": "evidence/cad_validation.json",
+    "bytes": 1054,
+    "sha256": "cdb3cdb195035f78175d8efb26248c31f883b1006ecb260241a2deb8394bb3b7"
+  },
+  {
+    "path": "evidence/held_out_predictions.csv",
+    "bytes": 2040,
+    "sha256": "43f32f53de9a9f5fa696d7cddf25a11052727ccdccfe15b60f859140175c4024"
+  },
+  {
+    "path": "evidence/test_results.json",
+    "bytes": 1430,
+    "sha256": "7c9cc84fd0a0b8b3158a043a12b1ed0040e9931daec7cce4255ad61fc46fd266"
+  },
+  {
+    "path": "evidence/ui_tests.json",
+    "bytes": 185,
+    "sha256": "a70602ab3d2a6786c60bfcbbba5680b8b84a8456a7a391976abe73382307dbbf"
+  },
+  {
+    "path": "evidence/video_frame_0000.png",
+    "bytes": 60762,
+    "sha256": "6b1ab3178b20ea1e5d6363e0304ea56819f5eba0635cc82b6181d5411b255e10"
+  },
+  {
+    "path": "evidence/video_frame_0300.png",
+    "bytes": 61327,
+    "sha256": "c0b77c75fe720aad404b2914ab58fe4abc4d3b444cf4d102c19952d117c28648"
+  },
+  {
+    "path": "evidence/video_frame_0450.png",
+    "bytes": 60184,
+    "sha256": "8eae2b4fc6890a53495cfde3dcbc7403a07888d9d3a713e813d1d6640ae2df6b"
+  },
+  {
+    "path": "evidence/video_frame_0650.png",
+    "bytes": 55922,
+    "sha256": "e44578cf52bb2474985f5de38d67ecbe481f2994a3d6076b70fcbf020fc88030"
+  },
+  {
+    "path": "evidence/video_frame_0950.png",
+    "bytes": 56762,
+    "sha256": "532206919ab0a724c17521ea1c0d220c4ddf6f05f0240154ed0aff4ce8ecc5f6"
+  },
+  {
+    "path": "evidence/video_validation.json",
+    "bytes": 210,
+    "sha256": "2a020db5aefafa1ac3aa56d34f0239fef30fce7b5e2c68c90dfbd328cf127a46"
+  },
+  {
+    "path": "software/app.py",
+    "bytes": 6900,
+    "sha256": "f4456e552639055e36ea1d638ae2e74ff402afae973e4e4980ee1ec7d5543cf0"
+  },
+  {
+    "path": "software/core.py",
+    "bytes": 6252,
+    "sha256": "a5340730b419ebc22474ceac2555ed42bd6b36703bcd3d226527b5075365e51d"
+  },
+  {
+    "path": "software/requirements.txt",
+    "bytes": 65,
+    "sha256": "fc523aad4d7b113549d327977037eb583ee66eb061685c0781f83b022c966cce"
+  },
+  {
+    "path": "software/test_ui.py",
+    "bytes": 1740,
+    "sha256": "0ea61aef7b4d2a38dc4d5df089fb37be58f70019fdb32549cf9ec343fb5aa4a5"
+  },
+  {
+    "path": "software/validate.py",
+    "bytes": 3886,
+    "sha256": "6ad04e63221e61709dce8e78541dea7c3a1ea8834f238576a7316bf2fa6da4ff"
+  }
+]

@@ -1,0 +1,17 @@
+Requirement,Deliverable,Status,Limitation
+Project architecture,architecture.mmd and engineering_notes.md,Complete,Physical interfaces unverified
+Individual CAD,cad/parts/*.step,Concept complete,Vendor dimensions and pressure design pending
+Assembly and exploded view,cad/FilterSense_assembly.step and FilterSense_exploded.step,Concept complete,No native mates or collision certification
+Engineering drawings,FilterSense_CAD_Handbook.pdf,Concept reference complete,Not manufacturing release
+Sensor simulation,software/core.py,Complete,No physical readings
+Health calculations,software/core.py,Tested,Assumed clean baselines
+Remaining life,software/core.py forecast,Tested on synthetic runs,Not field validated
+Kalman smoothing,software/core.py kalman,Implemented,Causal scalar model
+Regression evaluation,software/validate.py,12 held-out synthetic runs,Shared simulation families
+Optional gradient boosting,Not implemented,Deferred,No evidence it improves real performance
+Dashboard,software/app.py,19 interaction checks passed,Local laptop run pending
+Dataset,data/simulated_scenarios.csv,Generated,305 synthetic rows
+Safety,evidence/test_results.json,Logic tested,No hardware tested
+Progress report,docs/*Report.pdf,Prepared,Original abstract unavailable
+Video,docs/*Video.mp4,Captioned computational demo,No physical prototype or team voice
+Round 3 plan,engineering_notes.md,Documented,Hardware and full degradation tests pending
